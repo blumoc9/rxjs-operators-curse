@@ -1,0 +1,11 @@
+{
+  "name": "rxkp-operators-curse",
+  "version": "1.0.0",
+  "description": "How to use rxjs operators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Enrique Colmenarez Oronoz",
+  "license": "MIT"
+}
